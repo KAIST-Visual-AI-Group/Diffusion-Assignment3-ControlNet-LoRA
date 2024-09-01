@@ -19,8 +19,6 @@
   <img src="./asset/teaser.png" width="768"/>
 </div>
 
-#### Due: TBD 
-#### Where to Submit: Gradescope
 
 ## Description
 In this programming assignment, you will gain hands-on experience with two powerful techniques for training diffusion models for conditional generation: [ControlNet](https://arxiv.org/abs/2302.05543) and [LoRA](https://arxiv.org/abs/2106.09685). 
