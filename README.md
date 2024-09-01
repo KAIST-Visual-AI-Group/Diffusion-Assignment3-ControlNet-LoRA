@@ -1,6 +1,6 @@
 <div align=center>
   <h1>
-    Assignment 3 - ControlNet & LoRA
+    ControlNet & LoRA
   </h1>
   <p>
     <a href=https://mhsung.github.io/kaist-cs492d-fall-2024/ target="_blank"><b>KAIST CS492d: Diffusion Models and Their Applications</b></a><br>
