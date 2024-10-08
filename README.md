@@ -291,9 +291,7 @@ You should submit a `.zip` file with name `{STUDENT_ID}_{NAME}.zip` that contain
 ├── task_1_controlnet   <-- code for Task 1
 ├── lora_1              <-- checkpoints for Task 2
 │      └── pytorch_lora_weights.safetensors
-├── lora_2
-│      └── pytorch_lora_weights.safetensors
-└── lora_3
+└── lora_2
        └── pytorch_lora_weights.safetensors
 ```
 
